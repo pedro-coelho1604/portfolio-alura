@@ -12,8 +12,6 @@ Portfolio para adquirir conceitos básicos de frontend
 
 * Flex-box
 
-## Acesse meu projeto
-Para visualizar meu projeto [clique aqui](https://pedro-coelho1604.github.io/portfolio-alura/)
 
 
 
